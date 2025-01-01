@@ -2,6 +2,11 @@
 
 e-commerce for local flea markets with an option to bid.
 
+#dart
+#flutter
+#firebase
+#google
+
 ## Getting Started
 
 For help getting started with Flutter development, view the
